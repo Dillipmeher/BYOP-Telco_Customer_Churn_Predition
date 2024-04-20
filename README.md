@@ -8,4 +8,9 @@
 ![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/69d40b3b-416e-423b-a0d4-bb77fbb22f75)
 ![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/ed78b656-5a5c-4e8f-8d4b-20b2a307b095)
 ![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/e437b318-835c-42f4-89f0-f78230fd4378)
+![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/9b6d539b-afbf-43c5-9f1d-197ffdc3fc72)
+![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/61db9214-1787-4414-b0eb-0de468e1ba87)
+![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/66b6859d-6ae3-4746-8c60-8da9e973d6e2)
+![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/1e6eb69f-d090-4a28-8397-18d3ea7c06ff)
+![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/b7a1d81d-8254-4d54-9125-46c919984096)
 
