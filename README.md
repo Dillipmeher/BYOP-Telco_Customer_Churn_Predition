@@ -17,5 +17,7 @@
 ![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/65aea750-eda0-49fb-91e0-938d9244efb6)
 ![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/7b8e15c4-81ff-461b-a218-75afdb97da40)
 ![image](https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/ba2111fd-6111-4fc6-b1bd-9ebf9837ed34)
-"C:\Users\Dell\Downloads\www_screencapture_com_2024-3-28_17_13.mp4"
+
+
+https://github.com/Dillipmeher/BYOP-Telco_Customer_Churn_Predition/assets/143451788/79bc7120-1e92-4587-800f-7488cb603359
 
